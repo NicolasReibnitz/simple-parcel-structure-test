@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAEA,GACE,UAHmB,CAInB,qBAHQ","file":"styles.6f902a1e.css","sourceRoot":"../src","sourcesContent":["$primary-color: white;\n$bg: black;\nh1 {\n  color: $primary-color;\n  background-color: $bg;\n}"]}

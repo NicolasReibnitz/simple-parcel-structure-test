@@ -1,0 +1,23 @@
+{
+	"verbose": true,
+	"displayAssetsMap": true,
+	"rules": [
+		{
+			"match": "*.js",
+			"folder": "scripts"
+		},
+		{
+			"match": "*.css",
+			"folder": "styles",
+			"flatten": false
+		},
+		{
+			"match": "*.{jpg,png,gif,svg}",
+			"folder": "images"
+		},
+		{
+			"match": "*.mp4",
+			"folder": "videos"
+		}
+	]
+}
